@@ -59,5 +59,5 @@ Our XGBoost model achieved higher accuracy in predicting stroke occurrence in Ka
 - [Yazan Abualneaj]()
 - [Aman Allah Alrawel]()
 
-### Licen
+### License
 [MIT]()
